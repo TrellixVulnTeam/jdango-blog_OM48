@@ -1,0 +1,1 @@
+# Python3.7+django2.2 BLOG
